@@ -1,0 +1,17 @@
+{
+  "name": "nivo-lightbox",
+  "description": "A simple, flexible, responsive, retina-ready jQuery lightbox plugin",
+  "keywords": [
+    "image",
+    "lightbox",
+    "javascript"
+  ],
+  "version": "1.2.1",
+  "main": "nivo-lightbox.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nalscher/Nivo-Lightbox.git"
+  },
+  "license": "MIT",
+  "author": "Gilbert Pellegrom <gilbert@pellegrom.me>",
+}
